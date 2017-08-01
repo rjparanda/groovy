@@ -29,7 +29,7 @@ freeStyleJob(generateBuildJob) {
     scm {
         git {
             remote {
-                url("https://github.com/rjparanda/groovy.git")
+                url("https://github.com/rjparanda/Simulation.git")
             }
         }
     }
